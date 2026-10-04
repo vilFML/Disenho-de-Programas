@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="cc3002-project,cc3002-project.main,cc3002-project.test,ff-scala_338,ff-scala_338.main,ff-scala_338.test" />
+  </component>
+</project>
